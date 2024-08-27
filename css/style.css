@@ -1,0 +1,26 @@
+haader{
+    width: 100%;
+    float: left;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: aqua;
+}
+nav{
+    width: 20%;
+    float: left;
+    background-color: bisque;
+}
+main{
+    width: 60%;
+    float: left;
+    font-size:large ;
+    background-color: blue;
+
+}
+footer{
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-size: small;
+    font-weight: ;
+}
